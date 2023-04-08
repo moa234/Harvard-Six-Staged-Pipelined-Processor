@@ -4,6 +4,7 @@
 *.mpf
 *.qws
 *.wlf
+work
 
 # ignore compilation output of ModelSim
 *.mti
