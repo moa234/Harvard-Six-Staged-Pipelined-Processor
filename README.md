@@ -17,7 +17,9 @@ A Special Compiler for compiling the instruction set commands to machine code.
 ![6StageProcessor drawio](processor.PNG)
 
 [Click Here for Higher Resolution Design](https://www.canva.com/design/DAFf1KubZrc/6x8z1np1Zx5c2jGNrf8jeg/edit?utm_content=DAFf1KubZrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+# Technologies
+- VHDL used for implementing the processor
+- C++ used for implementing the compiler
 # How to use
 1. Create a project using modelsim and add all vhdl files.
 2. Compile all files.
