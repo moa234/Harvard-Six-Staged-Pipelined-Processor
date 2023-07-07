@@ -33,7 +33,7 @@ You can find more about the project specifics in the project document and refere
 - Computer Organization and Design - Fifth Edition - David A. Patterson & John L. Hennessy
 
 # Contributors
-1. [Salah Abotable](https://github.com/SalahAbotaleb)
+1. [Salah Abotalebl](https://github.com/SalahAbotaleb)
 2. [Moaaz Tarek](https://github.com/moa234)
 3. [Hussein Elhawary](https://github.com/Hussein-Elhawary)
 4. [Omar Elzahar](https://github.com/omarelzahar02)
