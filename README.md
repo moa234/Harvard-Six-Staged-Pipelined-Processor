@@ -14,7 +14,7 @@ A Harvard six stages pipedline processor that implements fullforwarding, static 
 A Special Compiler for compiling the instruction set commands to machine code.
 
 # Final Design
-![6StageProcessor drawio](processor.png)
+![6StageProcessor drawio](processor.PNG)
 
 [Click Here for Higher Resolution Design](https://www.canva.com/design/DAFf1KubZrc/6x8z1np1Zx5c2jGNrf8jeg/edit?utm_content=DAFf1KubZrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
