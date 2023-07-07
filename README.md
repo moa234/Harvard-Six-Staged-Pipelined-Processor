@@ -10,7 +10,7 @@
 * [Contributors](#Contributors)
 
 # Project Description
-A Harvard six stages pipedline processor that implements fullforwarding, static branch prediction and interrupt handling.
+A Harvard six stages pipelined processor that implements fullforwarding, static branch prediction and interrupt handling.
 A Special Compiler for compiling the instruction set commands to machine code.
 
 # Final Design
